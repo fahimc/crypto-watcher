@@ -11,7 +11,9 @@
   "dependencies": {
     "coinmarketcap-cli": "^0.3.1",
     "coinmarketcap-cli-api": "^1.1.0",
+    "get-json": "^1.0.0",
     "lowdb": "^1.0.0",
+    "node-coinmarketcap-api": "^1.0.4",
     "pushover-notifications": "^0.2.4"
   }
 }
